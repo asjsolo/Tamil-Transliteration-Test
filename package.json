@@ -1,0 +1,21 @@
+{
+  "name": "itpm-assigment-1",
+  "version": "1.0.0",
+  "description": "This project automates the testing of the Tamil Transliteration web application using Playwright.",
+  "main": "run_tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asjsolo/Tamil-Transliteration-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/asjsolo/Tamil-Transliteration-Test/issues"
+  },
+  "homepage": "https://github.com/asjsolo/Tamil-Transliteration-Test#readme"
+}
