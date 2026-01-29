@@ -13,7 +13,7 @@ This project automates the testing of the Tamil Transliteration web application 
 
 2.Navigate to the project folder:
 
-	cd ITPM Assigment-1
+	cd Tamil-Transliteration-Test
 
 3.install dependencies:
 
