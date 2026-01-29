@@ -1,0 +1,36 @@
+﻿TC_ID,INPUT,EXPECTED_OUTPUT,ACTUAL_OUTPUT,STATUS
+Pos_Fun_0001,Naan unnai paarthen,நான் உன்னை பார்த்தேன்,நான் உன்னை பார்த்தேன் ,Pass
+Pos_Fun_0002,Naan vanthen aanaal avan varavillai,நான் வந்தேன் ஆனால் அவன் வரவில்லை,நான் வந்தேன் ஆனால் அவன் வரவில்லை ,Pass
+Pos_Fun_0003,Mazhai peythathaal naan veliyil poga mudiyavillai,மழை பெய்ததால் நான் வெளியில் போக முடியவில்லை,மழை பெய்ததால் நான் வெளியில் போக முடியவில்லை ,Pass
+Pos_Fun_0004,Naan netru kovilukku ponnen,நான் நேற்று கோவிலுக்கு போனேன்,நான் நேற்று கோவிலுக்கு போன்னேன் ,Pass
+Pos_Fun_0005,Naalai mazhai peiyum,நாளை மழை பெய்யும்,நாளை மழை பெய்யும் ,Pass
+Pos_Fun_0006,Puthagangal,புத்தகங்கள்,புத்தகங்கள் ,Pass
+Pos_Fun_0007,Enakku adhu vendaam,எனக்கு அது வேண்டாம்,எனக்கு அது வேண்டாம் ,Pass
+Pos_Fun_0008,Idhu ennoda veedu,இது என்னோட வீடு,இது என்னோட வீடு ,Pass
+Pos_Fun_0009,Avalal poga mudiyum,அவளால் போக முடியும்,அவளால் போக முடியும் ,Pass
+Pos_Fun_0010,Un peyar enna?,உன் பெயர் என்ன?,உன் பெயர் என்ன? ,Pass
+Pos_Fun_0011,Neengal enge irukkireergal?,நீங்கள் எங்கே இருக்கிறீர்கள்?,நீங்கள் எங்கே இருக்கிறீர்கள்? ,Pass
+Pos_Fun_0012,Vanakkam,வணக்கம்,வணக்கம் ,Pass
+Pos_Fun_0013,Nandri,நன்றி,நன்றி ,Pass
+Pos_Fun_0014,Enakku oru kilo arisi venum.,எனக்கு ஒரு கிலோ அரிசி வேணும்.,எனக்கு ஒரு கிலோ அரிசி வேணும். ,Pass
+Pos_Fun_0015,"Kadhavaimoodu, seekiram inge vaa.","கதவை மூடு, சீக்கிரம் இங்கே வா.","கதவைமூடு, சீக்கிரம் இங்கே வா. ",Pass
+Pos_Fun_0016,Enakku oru coffee venum,எனக்கு ஒரு காபி வேணும்,எனக்கு ஒரு காபி வேணும் ,Pass
+Pos_Fun_0017,Thanglish mozhiyil taip seivathu migavum elimayana murai agum.,தங்கிலீஷ் மொழியில் டைப் செய்வது மிகவும் எளிமையான முறை ஆகும்.,தங்கிலீஷ் மொழியில் டைப் செய்வது மிகவும் எளிமையான முறை ஆகும். ,Pass
+Pos_Fun_0018,"Machan, neenga eppo free?","மச்சான், நீங்க எப்போ ஃப்ரீ?","மச்சான், நீங்க எப்போ பிரீ? ",Pass
+Pos_Fun_0019,Vegamaaga,வேகமாக,வேகமாக ,Pass
+Pos_Fun_0020,Neengal eppadi irukkireergal?,நீங்கள் எப்படி இருக்கிறீர்கள்?,நீங்கள் எப்படி இருக்கிறீர்கள்? ,Pass
+Pos_Fun_0021,Kaalai Vanakkam,காலை வணக்கம்,காலை வணக்கம் ,Pass
+Pos_Fun_0022,A: Vanakkam,எ : வணக்கம் பி:நன்றி,எ: வணக்கம் பி: நன்றி ,Pass
+Pos_Fun_0023,Chennai,சென்னை,சென்னை ,Pass
+Pos_Fun_0024,Ondru,ஒன்று,ஒன்று ,Pass
+Neg_Fun_0001,"Indru date 25th August, vilai 500 rubai.","இன்று தேதி 25th August, விலை 500 ரூபாய்.","இன்று தேதி ௨௫த் ஆகஸ்ட், விலை ௫௦௦ ரூபாய். ",Fail
+Neg_Fun_0002,Psychology,சைக்காலஜி,பசிசோலஜி ,Fail
+Neg_Fun_0003,Queue,கியூ,யூனுக்கே ,Fail
+Neg_Fun_0004,user@gmail.com,user@gmail.com,உசேன்@ஜிமெயில்.கம ,Fail
+Neg_Fun_0005,"print(hello"")""","print(hello"")""","பிரிண்ட்(ஹலோ"") """,Fail
+Neg_Fun_0006,Mr. Bean,மிஸ்டர் பீன்,மற். பீன் ,Fail
+Neg_Fun_0007,10kg,10kg,௧௦க்க் ,Fail
+Neg_Fun_0008,100%,100%,௧00.00%,Fail
+Neg_Fun_0009,www.google.com,www.google.com,வ்வ்வ்.கூகுளை.கம ,Fail
+Neg_Fun_0010,Shakespeare,ஷேக்ஸ்பியர்,ஷேஸ்பியரே ,Fail
+Pos_UI_0001,Vanakkam,Update while typing,வணக்கம் ,Fail
