@@ -9,7 +9,7 @@ This project automates the testing of the Tamil Transliteration web application 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/asjsolo/Tamil-Transliteration-Test.git>
+   git clone https://github.com/asjsolo/Tamil-Transliteration-Test.git
 
 2.Navigate to the project folder:
 
